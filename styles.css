@@ -78,7 +78,7 @@ body {
     width: 20px;
     border-right: 20px solid transparent;
     border-left: 20px solid transparent;
-    border-top: 80px solid #cbbbbf;
+    border-top: 80px solid #bcadb0;
     height: 0;
     top: 15px;
     left: 60px;
@@ -91,7 +91,7 @@ body {
     width: 20px;
     border-right: 20px solid transparent;
     border-left: 20px solid transparent;
-    border-bottom: 80px solid ##bcadb0;
+    border-bottom: 80px solid #bcadb0;
     height: 0;
     top: -45px;
     left: 60px;
